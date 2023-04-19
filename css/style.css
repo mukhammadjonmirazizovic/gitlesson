@@ -1,0 +1,17 @@
+h2{
+    color: red;
+    font-size: 35px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+p{
+    color:black;
+    background-color: #00ffbb;
+    border-radius: 10px;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
